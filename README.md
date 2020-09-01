@@ -1,5 +1,7 @@
 # SMPlayer
 	It can play both Audio and Video
+	react-native-cli: 2.0.1
+	react-native: 0.63.2
 	
 ## Component used
 * **Dependencies**
